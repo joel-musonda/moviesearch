@@ -7,5 +7,5 @@ Hey there !
 ![Screenshot 2024-05-06 100947](https://github.com/joel-musonda/moviesearch/assets/152785053/5986c590-69b3-4b3c-a183-f35b011a6030)
 
  head over to :
- https://mysearchmovies.netlify.app/
+https://myfilmsearch.netlify.app/
  enjoy!
